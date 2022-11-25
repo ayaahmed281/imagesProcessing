@@ -1,2 +1,0 @@
-# imagesProcessing
-nodejs
