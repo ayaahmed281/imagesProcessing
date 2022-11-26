@@ -20,4 +20,3 @@ describe("Test endpoint responses", () => {
     expect(response.body.error).toBe("check ur data in the url")
   })
 })
-
